@@ -14,7 +14,7 @@ Many factors go into whether or not a song becomes popular. Using multiple binar
 [Tableau Viz: Hours spent on leisure activities, average per day by education level and day, 2003 annual averages](https://public.tableau.com/profile/steven.tran1579#!/vizhome/Hoursspentonselectleisureactivitiesaveragesperdaybyeducationallevelandsex2003annualaverages/Dashboard3)  
 [Tableau Viz: Hours spent on working and volunteering, average per day by education level and day, 2003 annual averages](https://public.tableau.com/profile/steven.tran1579#!/vizhome/Hoursspentonworkingandvolunteeringaveragesperdaybyeducationallevelandsex2003annualaverages/Dashboard1)
 
-The [American Time Use Survey](https://www.bls.gov/tus/) is an ongoing annual survey since 2003 that collects data on how everyday Americans spend their time according to metrics such as sex, income, education, and age. I investigate various relationships not shown on the website itself. Inspiration for my current visualizations go to charts like this [https://www.bls.gov/charts/american-time-use/activity-by-sex.htm].  
+The [American Time Use Survey](https://www.bls.gov/tus/) is an ongoing annual survey since 2003 that collects data on how everyday Americans spend their time according to metrics such as sex, income, education, and age. I investigate various relationships not shown on the website itself. Inspiration for my current visualizations go to charts like [these](https://www.bls.gov/charts/american-time-use/activity-by-sex.htm).  
 
 
 ### U.S. Job Automation Potential in 2018
